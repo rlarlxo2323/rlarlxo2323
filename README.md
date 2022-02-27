@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=Kim%20Gi%20Tae&animation=fadeIn&fontSize=85)
+![header](https://capsule-render.vercel.app/api?type=soft&color=gradient&height=300&section=header&text=Kim%20Gi%20Tae&animation=fadeIn&fontSize=85)
 
 <h1 align="center">Hi 👋, I'm Kim gi tae</h1>
 <h3 align="center">A Student Developer in Republic of Korea</h3>
