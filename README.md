@@ -24,8 +24,6 @@
 
 ## :calendar: Experience
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rlarlxo2323&" alt="rlarlxo2323" /></p>
-
 
 |           Type            |        Date        |                           Contents                           |                    Organization                    |
 | :-----------------------: | :----------------: | :----------------------------------------------------------: | :------------------------------------------------: |
