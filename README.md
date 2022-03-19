@@ -2,8 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Kim gi tae</h1>
 <h3 align="center">A Student Developer in Republic of Korea</h3>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=rlarlxo2323&label=Profile%20views&color=0e75b6&style=flat" alt="rlarlxo2323" /> 
-</p>
+
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=rlarlxo2323&show_icons=true&locale=en" alt="rlarlxo2323" />
 </p>
