@@ -73,7 +73,7 @@
 |  2021. 4. 24 ~<br>2021. 6. 5  |     [음식 주문 및 결제 시스템](https://github.com/rlarlxo2323/Food_Ordering_System) - 1분반 3조     |               Dong-eui University                |
 |  2021. 10. 6 ~<br>2021. 12. 4  |     [ROS 기반의 터틀봇 자율주행](https://github.com/rlarlxo2323/ROS_autonomous_driving_project) - 합반 4조     |               Dong-eui University                |
 |  2021. 10. 7 ~<br>2021. 12. 9  |     [음식점 내 QR 간편 주문 및 결제 앱 (찍고먹자)](https://github.com/rlarlxo2323/QR_Payment_Application) - 팀 초코파이썬칩     |               Dong-eui University                |
-|  2021. 11. 13 ~<br>2021. 12. 12  |     [코로나 환자 관리 프로그램](https://github.com/rlarlxo2323/Covid_Patient_Management_System) - 3분반 6조     |               Dong-eui University                |
+|  2021. 11. 13 ~<br>2021. 12. 12  |     [코로나 환자 관리 프로그램](https://github.com/rlarlxo2323/Covid-Patient-Management-Program.git) - 3분반 6조     |               Dong-eui University                |
 
 
 <h3 align="left">Certificate:</h3>
