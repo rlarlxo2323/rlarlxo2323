@@ -69,7 +69,7 @@
 |  2021. 04. 24 ~<br>2021. 06. 05  |     [음식 주문 및 결제 시스템](https://github.com/rlarlxo2323/Food_Ordering_System) - 1분반 3조     |               Dong-eui University                |
 |  2021. 10. 06 ~<br>2021. 12. 04  |     [ROS 기반의 터틀봇 자율주행](https://github.com/rlarlxo2323/ROS_autonomous_driving_project) - 합반 4조     |               Dong-eui University                |
 |  2021. 10. 07 ~<br>2021. 12. 09  |     [음식점 내 QR 간편 주문 및 결제 앱 (찍고먹자)](https://github.com/rlarlxo2323/QR_Payment_Application) - 팀 초코파이썬칩     |               Dong-eui University                |
-|  2022. 03. 09 ~<br>2022. 06. 09  |     책을 통한 동의대학교 멘토-멘티 플랫폼 “도르마북”<br>[[백엔드]](https://github.com/rlarlxo2323/dormabook-server), [[프론트엔드]](https://github.com/rlarlxo2323/dormabook-front), [[WebRTC Server]](https://github.com/rlarlxo2323/dormabook-webRTC) - 팀 도르마무V2     |               Dong-eui University                |
+|  2022. 03. 09 ~<br>2022. 06. 09  |     책을 통한 멘토-멘티 플랫폼 “도르마북”<br>[[백엔드]](https://github.com/rlarlxo2323/dormabook-server), [[프론트엔드]](https://github.com/rlarlxo2323/dormabook-front), [[WebRTC Server]](https://github.com/rlarlxo2323/dormabook-webRTC) - 팀 도르마무V2     |               Dong-eui University                |
 
 
 <h3 align="left">Toy Project:</h3>
