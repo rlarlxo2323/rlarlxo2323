@@ -9,10 +9,10 @@
 
 
 ## :facepunch: Introduce
-소셜로그인, JWT 방식 기반(Spring Security, OAuth2) 사용자 인증 서비스 구현 경험
-대용량 파일 업로드 및 영상 스트리밍 서비스 개발, 서비스 성능 최적화 경험
+소셜로그인, JWT 방식 기반(Spring Security, OAuth2) 사용자 인증 서비스 구현 경험</br>
+대용량 파일 업로드 및 영상 스트리밍 서비스 개발, 서비스 성능 최적화 경험</br>
 
-다양한 기술 스택을 학습하여 서비스에 적용하는 작업이 즐겁습니다.
+다양한 기술 스택을 학습하여 서비스에 적용하는 작업이 즐겁습니다.</br>
 새로운 문제를 두려워하지 않는 자세로 백엔드 개발자를 꿈꾸고 있습니다.</br>
 
 
@@ -34,17 +34,6 @@
 <img src="https://img.shields.io/badge/Springboot-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>&nbsp;
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>&nbsp;
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=black"/></a>&nbsp;
-<img src="https://img.shields.io/badge/ROS-22314E?style=flat-square&logo=ROS&logoColor=white"/></a>&nbsp;
-
-- **Tools**  </br>
-<img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat-square&logo=IntelliJ IDEA&logoColor=white"/></a>&nbsp;
-<img src="https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=PyCharm&logoColor=white"/></a>&nbsp;
-<img src="https://img.shields.io/badge/Apache NetBeans IDE-1B6AC6?style=flat-square&logo=Apache NetBeans IDE&logoColor=white"/></a>&nbsp;
-<img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=Android Studio&logoColor=black"/></a>&nbsp;
-<img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat-square&logo=Visual Studio&logoColor=white"/></a>&nbsp;
-<img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/></a>&nbsp;
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/></a>&nbsp;
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>&nbsp;
 
 - **OS**  </br>
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white"/></a>&nbsp;
@@ -104,6 +93,7 @@
 |  2021. 01. 25 ~<br>2021. 02. 23  |            파이썬 기반 인공지능 (SLP) 기본교육 (160시간)            |                 인공지능그랜드ICT연구센터                 |
 |  2021. 11. 03 ~<br>2021. 11. 05  |     SW Testing Foundation 교육 (21시간)     |               부산정보산업진흥원                |
 |  2022. 04. 06 ~<br>2022. 05. 17  |     Rising Camp 5기 - Server 과정     |               소프트스퀘어드 (컴공선배)                |
+|  2022. 10. 24 ~<br>2023. 03. 16  |     크래프톤 정글 1기     |               소프트스퀘어드 (컴공선배)                |
 
 
 
