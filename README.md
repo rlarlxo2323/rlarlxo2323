@@ -89,6 +89,7 @@
 |  2018. 01. 19  |     Microsoft Office Specialist 2010 Master      |               Microsoft                |
 |  2022. 05. 21  |     TOPCIT (3수준)      |               정보통신기획평가원                |
 |  2022. 06. 24  |     SQL 개발자 (SQLD)      |               한국데이터산업진흥원                |
+|  2022. 11. 25  |     정보처리기사     |                한국산업인력공단                |
 
 
 <h3 align="left">Education:</h3>
